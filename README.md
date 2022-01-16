@@ -6,12 +6,12 @@ A repository which resides different coding questions (in JAVA programming langu
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (0/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (2/15)</summary>
 
 Sr  | [Problems](./goldman-sachs/README.md)                                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Print Anagrams Together](./goldman-sachs/print-anagrams-together.md)                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                              | 
-2   | [Overlapping Rectangles](./goldman-sachs/overlapping-rectangles1924.md)                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                            | 
+1   | [Print Anagrams Together](./goldman-sachs/print-anagrams-together.md)                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                              |👌
+2   | [Overlapping Rectangles](./goldman-sachs/overlapping-rectangles1924.md)                                                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                            |👌
 3   | [Count the subarrays having product less than k](./goldman-sachs/count-the-subarrays-having-product-less-than-k1708.md)   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)    | 
 4   | [Run Length Encoding](./goldman-sachs/run-length-encoding.md)                                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)                                   | 
 5   | [Ugly Number](./goldman-sachs/ugly-numbers2254.md)                                                                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                      | 
