@@ -7,7 +7,7 @@ A repository which resides different coding questions (in JAVA programming langu
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (4/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (6/15)</summary>
 
 | Sr  | [Problems](./goldman-sachs/README.md)                                                             | TryIt                                                                                                                                  | Status |
 | --- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
