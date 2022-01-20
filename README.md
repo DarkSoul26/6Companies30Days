@@ -7,7 +7,7 @@ A repository which resides different coding questions (in JAVA programming langu
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (8/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (10/15)</summary>
 
 | Sr  | [Problems](./goldman-sachs/README.md)                                                             | TryIt                                                                                                                                  | Status |
 | --- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -20,8 +20,8 @@ A repository which resides different coding questions (in JAVA programming langu
 | 7   | [Find the position of M-th item](./Goldman_Sachs/Question7.java)                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                 | 👌     |
 | 8   | [Total Decoding Messages](./goldman-sachs/total-decoding-messages1235.md)                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                        |
 | 9   | [Number following a pattern](./Goldman_Sachs/Question9.java)                                      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                     | 👌     |
-| 10  | [Max 10 numbers in a list having 10M entries](./goldman-sachs/k-largest-elements3736.md)          | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                              |
-| 11  | [Find Missing And Repeating](./goldman-sachs/find-missing-and-repeating2512.md)                   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                    |
+| 10  | [Max 10 numbers in a list having 10M entries](./Goldman_Sachs/Question10.java)                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                              | 👌     |
+| 11  | [Find Missing And Repeating](./Goldman_Sachs/Question11.java)                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                    | 👌     |
 | 12  | [Squares in N\*N Chessboard](./goldman-sachs/squares-in-nn-chessboard1801.md)                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                        |
 | 13  | [Decode the string](./goldman-sachs/decode-the-string2444.md)                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                               |
 | 14  | [Minimum Size Subarray Sum](./goldman-sachs/minimum-size-subarray-sum.md)                         | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           |
