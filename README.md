@@ -7,25 +7,25 @@ A repository which resides different coding questions (in JAVA programming langu
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (13/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (14/15)</summary>
 
-| Sr  | [Problems](./goldman-sachs/README.md)                                                             | TryIt                                                                                                                                  | Status |
-| --- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1   | [Print Anagrams Together](./Goldman_Sachs/Question1.java)                                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                           | 👌     |
-| 2   | [Overlapping Rectangles](./Goldman_Sachs/Question2.java)                                          | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                         | 👌     |
-| 3   | [Count the subarrays having product less than k](./Goldman_Sachs/Question3.java)                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/) | 👌     |
-| 4   | [Run Length Encoding](./Goldman_Sachs/Question4.java)                                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)                                | 👌     |
-| 5   | [Ugly Number](./Goldman_Sachs/Question5.java)                                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                   | 👌     |
-| 6   | [Greatest Common Divisor of Strings](./Goldman_Sachs/Question6.java)                              | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                  | 👌     |
-| 7   | [Find the position of M-th item](./Goldman_Sachs/Question7.java)                                  | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                 | 👌     |
-| 8   | [Total Decoding Messages](./goldman-sachs/total-decoding-messages1235.md)                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                        |
-| 9   | [Number following a pattern](./Goldman_Sachs/Question9.java)                                      | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                     | 👌     |
-| 10  | [Max 10 numbers in a list having 10M entries](./Goldman_Sachs/Question10.java)                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                              | 👌     |
-| 11  | [Find Missing And Repeating](./Goldman_Sachs/Question11.java)                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                    | 👌     |
-| 12  | [Squares in N\*N Chessboard](./Goldman_Sachs/Question12.java)                                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                        | 👌     |
-| 13  | [Decode the string](./Goldman_Sachs/Question13.java)                                              | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                               | 👌     |
-| 14  | [Minimum Size Subarray Sum](./Goldman_Sachs/Question14.java)                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | 👌     |
-| 15  | [Array Pair Sum Divisibility Problem](./goldman-sachs/array-pair-sum-divisibility-problem3257.md) | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)            |
+| Sr  | [Problems](./goldman-sachs/README.md)                                            | TryIt                                                                                                                                  | Status |
+| --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1   | [Print Anagrams Together](./Goldman_Sachs/Question1.java)                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                           | 👌     |
+| 2   | [Overlapping Rectangles](./Goldman_Sachs/Question2.java)                         | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                         | 👌     |
+| 3   | [Count the subarrays having product less than k](./Goldman_Sachs/Question3.java) | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/) | 👌     |
+| 4   | [Run Length Encoding](./Goldman_Sachs/Question4.java)                            | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)                                | 👌     |
+| 5   | [Ugly Number](./Goldman_Sachs/Question5.java)                                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                   | 👌     |
+| 6   | [Greatest Common Divisor of Strings](./Goldman_Sachs/Question6.java)             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                  | 👌     |
+| 7   | [Find the position of M-th item](./Goldman_Sachs/Question7.java)                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                 | 👌     |
+| 8   | [Total Decoding Messages](./goldman-sachs/total-decoding-messages1235.md)        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                        |
+| 9   | [Number following a pattern](./Goldman_Sachs/Question9.java)                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                     | 👌     |
+| 10  | [Max 10 numbers in a list having 10M entries](./Goldman_Sachs/Question10.java)   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                              | 👌     |
+| 11  | [Find Missing And Repeating](./Goldman_Sachs/Question11.java)                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                    | 👌     |
+| 12  | [Squares in N\*N Chessboard](./Goldman_Sachs/Question12.java)                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                        | 👌     |
+| 13  | [Decode the string](./Goldman_Sachs/Question13.java)                             | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                               | 👌     |
+| 14  | [Minimum Size Subarray Sum](./Goldman_Sachs/Question14.java)                     | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | 👌     |
+| 15  | [Array Pair Sum Divisibility Problem](./Goldman_Sachs/Question15.java)           | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)            | 👌     |
 
 </details>
 
