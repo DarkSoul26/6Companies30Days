@@ -7,7 +7,7 @@ A repository which resides different coding questions (in JAVA programming langu
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.2em">Goldman Sachs (14/15)</summary>
+<summary style="font-size: 1.2em">Goldman Sachs (15/15)</summary>
 
 | Sr  | [Problems](./goldman-sachs/README.md)                                            | TryIt                                                                                                                                  | Status |
 | --- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -18,7 +18,7 @@ A repository which resides different coding questions (in JAVA programming langu
 | 5   | [Ugly Number](./Goldman_Sachs/Question5.java)                                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                   | 👌     |
 | 6   | [Greatest Common Divisor of Strings](./Goldman_Sachs/Question6.java)             | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                  | 👌     |
 | 7   | [Find the position of M-th item](./Goldman_Sachs/Question7.java)                 | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                 | 👌     |
-| 8   | [Total Decoding Messages](./goldman-sachs/total-decoding-messages1235.md)        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                        |
+| 8   | [Total Decoding Messages](./Goldman_Sachs/Question8.java)                        | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                        | 👌     |
 | 9   | [Number following a pattern](./Goldman_Sachs/Question9.java)                     | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                     | 👌     |
 | 10  | [Max 10 numbers in a list having 10M entries](./Goldman_Sachs/Question10.java)   | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                              | 👌     |
 | 11  | [Find Missing And Repeating](./Goldman_Sachs/Question11.java)                    | [![Problem Link](./assets/gfg.svg)](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                    | 👌     |
